@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Lumko Majozi
+# 👋 Hey, I'm Lumko Saneliso Majozi
 
 ### `Software Engineering Student • Problem Solver • Professional Bug Creator & Fixer`
 
 Welcome to my little corner of GitHub! 👩🏽‍💻
 
-I'm **Lumko Majozi**, a Software Engineering student at **WeThinkCode_**, currently on a mission to understand how all this tech stuff actually works — one bug, error message, `git push`, and "why isn't this compiling?" at a time.
+I'm **Lumko Saneliso Majozi**, a Software Engineering student at **WeThinkCode_**, currently on a mission to understand how all this tech stuff actually works — one bug, error message, `git push`, and "why isn't this compiling?" at a time.
 
 I started coding because I wanted to build things, but somewhere along the way I discovered that coding is also approximately **30% writing code and 70% staring at an error message wondering what you did to deserve this.** 😂
 
@@ -13,7 +13,6 @@ I started coding because I wanted to build things, but somewhere along the way I
 ## 🧑🏽‍💻 About Me
 
 * 🎓 Software Engineering student at **WeThinkCode_**
-* 💻 Currently learning **full-stack development**
 * 🐍 Learning **Python**
 * ☕ Working with **Java & Object-Oriented Programming**
 * 📱 Exploring **Flutter & Dart** for mobile development
@@ -36,7 +35,6 @@ Languages
 
 Development
 ├── Flutter 📱
-├── Full-Stack Development 🌐
 ├── Object-Oriented Programming
 ├── REST APIs
 └── Relational Databases
@@ -59,7 +57,6 @@ I'm currently building my skills through projects, assessments, and lots of hand
 Some of the things I've worked with include:
 
 * 🤖 Robot/server-client applications
-* ☕ Full-stack database applications
 * 📱 Flutter mobile applications
 * 💰 Student-focused applications
 * 🧪 Java OOP projects and automated tests
