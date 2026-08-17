@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lumko Saneliso Majozi
+# 👋 Hey, I'm Lumko Majozi
 
 ### `Software Engineering Student • Problem Solver • Professional Bug Creator & Fixer`
 
